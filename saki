@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Min Personliga Portfolio</title>
+</head>
+<body>
+    <h1 id="mittNamn">Ashraf</h1>
+
+    <h2>Om Mig</h2>
+    <p>
+        Jag är en student som älskar att lära mig nya saker, särskilt inom 
+        <span>programmering</span> och design. På fritiden gillar jag även musik och att resa.
+    </p>
+
+    <h2>Mina Projekt</h2>
+    <ul>
+        <li class="projekt-item">
+            <strong>Portfolio-webbplats:</strong> En enkel sida där jag visar vem jag är och vad jag gör.
+        </li>
+        <li class="projekt-item">
+            <strong>Python-projekt:</strong> Ett program som hjälper mig att hålla koll på mina kvitton.
+        </li>
+    </ul>
+
+    <h2>Kontakt</h2>
+    <p>
+        Du kan nå mig via 
+        <a href="utbashkha1@skola.malmo.se">e-post</a>.
+    </p>
+
+    <img src="glad-tandls-gubbe_129098227.jpg" alt="Bild på mig">
+
+</body>
+</html>
